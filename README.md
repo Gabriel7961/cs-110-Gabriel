@@ -3,4 +3,4 @@
 This is my repository for **CS110** at [Antelope Valley College](https://www.avc.edu). I use it to keep my Git and GitHub labs and assignments.
 - School: [Antelope Valley College](https://www.avc.edu)
 -  Course: CS110
-- Author: Gabriel Lizarde 
+- Author: Gabriel Lizarde
