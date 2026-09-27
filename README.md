@@ -4,4 +4,3 @@ This is my repository for **CS110** at [Antelope Valley College](https://www.avc
 - School: [Antelope Valley College](https://www.avc.edu)
 -  Course: CS110
 - Author: Gabriel Lizarde 
-README
